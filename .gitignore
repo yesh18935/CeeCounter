@@ -1,3 +1,7 @@
+# Claude session memory (local only)
+CLAUDE_MEMORY.md
+flutter-app-dev-roadmap.md
+
 # Miscellaneous
 *.class
 *.lock
