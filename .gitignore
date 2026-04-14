@@ -2,6 +2,10 @@
 CLAUDE_MEMORY.md
 flutter-app-dev-roadmap.md
 
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
 # Miscellaneous
 *.class
 *.lock
